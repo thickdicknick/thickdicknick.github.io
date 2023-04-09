@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Hero Theme"
-themesDir = "../.."
+themesDir = "themes""
 theme = "hugo-hero-theme"
 
 [module]
