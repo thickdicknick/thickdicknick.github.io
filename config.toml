@@ -3,60 +3,106 @@ languageCode = "en-us"
 title = "Hugo Hero Theme"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+title = "Initio - Free, multipurpose html5 template by GetTemplate"
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.92.0"
-    
 [params]
-  google_analytics_id=""
+    name = "Thick Dick Nick"
+    description = "Colorado's most feared personal injury attorney"
+    email = "nick@thickdicknick.com"
+    phone = "1-800-THIK-DIK"
+    address = "1 Thick Dick Way, Colorado Springs, CO 80901"
+    year = 2023
+    avatar = "images/guy.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Thick Dick Nick"
 
-  [params.logo]
-    mobile = "images/logo-mobile.svg"
-    mobile_height = "36px"
-    mobile_width = "36px"
-    desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
-    alt = "Hugo Hero"
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
 
-  [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
-    meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = true
+    showFooterFormWidget = true
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+    name = "home"
+    url = "/"
     weight = 1
-
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
+    name = "blog"
+    url = "/post/"
+    weight = 5
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
 
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
 
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/nickname"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/nickname"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/nickname"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "google+"
+	url = "https://plus.google.com/+nickname"
+    icon = "fab fa-google-plus-square"
+    footer = false
+    sharethis = true
+    network = "googleplus"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fab fa-linkedin"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://nickname.tumblr.com"
+    icon = "fab fa-tumblr-square"
+    footer = false
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"
