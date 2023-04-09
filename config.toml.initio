@@ -1,8 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
+title = "Hugo Hero Theme"
 themesDir = "themes"
 theme = "hugo-hero-theme"
-title = "Thick Dick Nick"
+title = "Initio - Free, multipurpose html5 template by GetTemplate"
 
 [params]
     name = "Thick Dick Nick"
