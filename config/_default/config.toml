@@ -8,6 +8,7 @@ copyright = "Copyright © 2023 Thick Dick Nick and Associates, LLC. All rights r
     tag = "tags"
 
 [params]
+    attribution = false
     description = "params description"
     show_post_dates = false
 
@@ -50,6 +51,6 @@ copyright = "Copyright © 2023 Thick Dick Nick and Associates, LLC. All rights r
             url = "#"
 
         [params.footer.contact_form]
-            enabled = false
-            header = "Get In Touch"
+            enabled = true
+            header = "What can The Thick Dick do for you?"
             action = ""

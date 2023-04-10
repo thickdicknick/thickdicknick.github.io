@@ -1,6 +1,6 @@
 ---
-title: The Second Thing
-image: images/pic02.jpg
+title: Testimonial 2
+image: images/happy-guy-with-dog.jpg
 date: "2020-01-02T00:00:00"
 tags:
   - example

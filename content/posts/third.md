@@ -1,6 +1,6 @@
 ---
-title: The Third Thing
-image: images/pic03.jpg
+title: Testimonial 3
+image: images/happy-woman.jpg
 date: "2020-01-03T00:00:00"
 tags:
   - example
