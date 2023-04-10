@@ -7,29 +7,57 @@ banner:
     #url: "tel://800-THIK-DIK"
 items:
   - type: highlights
+    intro: "We specialize in:"
     items_per_row: 3
     items:
-    - title: This Is Important
+    - title: Car Accidents
       icon: fa-car
-      # icon: fa-paper-plane
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-deaf
-      # icon: fa-pencil-alt
+    - title: Motorcycle Accidents
+      icon: fa-motorcycle
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wheelchair
-      # icon: fa-wrench
+    - title: Big Truck Accidents
+      icon: fa-truck
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Unpaid Auto Insurance Claims
+      icon: fa-car-burst
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Pedestrian Accidents
+      icon: fa-person-walking
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Construction Injuries
+      icon: fa-helmet-safety
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Deaf People
+      icon: fa-ear-deaf
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Blind People
+      icon: fa-person-walking-with-cane
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Oral
+      icon: fa-person-praying
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+    heading: Make your first call the right call
+    contents: "\"First I called The Strong Arm, then I called **The Thick Dick!**\""
   - type: posts
     heading: Testimonials
     content_type: posts
