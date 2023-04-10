@@ -1,6 +1,8 @@
 <section class="wrapper style1">
     <div class="container">
+        <h2>{{ .item.intro | markdownify }}</h2>
         <div class="row gtr-200">
+
             {{- $item_cols := (div 12 (.items_per_row | default 3)) }}
             {{- range .item.items }}
                 <section class="col-{{ $item_cols }} col-12-narrower">
