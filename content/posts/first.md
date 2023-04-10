@@ -6,4 +6,4 @@ tags:
   - example
   - lorem ipsum
 ---
-"First I called The Strong Arm, then I called The Thick Dick!"
+"Testimonial"
