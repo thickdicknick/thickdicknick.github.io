@@ -14,27 +14,17 @@ copyright = "Copyright © 2023 Thick Dick Nick and Associates, LLC. All rights r
     [[params.social]]
         title = "Twitter"
         icon = "fa-twitter"
-        url = "#"
+        url = "https://www.twitter.com/thickdicknick"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
-        url = "#"
-    [[params.social]]
-        title = "GitHub"
-        icon = "fa-github"
-        url = "#"
+        url = "https://www.facebook.com/thickdicknick"
     [[params.social]]
         title = "LinkedIn"
         icon = "fa-linkedin-in"
-        url = "#"
-    [[params.social]]
-        title = "Creative Commons"
-        icon = "fa-creative-commons"
-        url = "https://creativecommons.org/"
-
+        url = "https://www.linkedin.com/in/thickdicknick"
 
     [params.footer]
-
         [[params.footer.links]]
             header = "params footer links header"
         [[params.footer.links.links]]
