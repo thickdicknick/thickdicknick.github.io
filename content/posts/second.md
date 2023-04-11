@@ -1,5 +1,5 @@
 ---
-title: Testimonial 2
+title: Mukanda from Denver
 image: images/happy-guy-with-dog.jpg
 date: "2020-01-02T00:00:00"
 tags:
