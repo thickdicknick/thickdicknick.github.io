@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/lawyers-in-room.jpg"
+  image: "images/lawyers-in-room-with-nick.jpg"
   contents: "_Serving_ anywhere _from 3 to 6 market sectors in Colorado_"
   #button:
     #contents: "Call"
