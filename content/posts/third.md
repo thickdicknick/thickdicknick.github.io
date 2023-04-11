@@ -6,7 +6,4 @@ tags:
   - example
   - duis neque
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
-<!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+"I was in so much pain after the accident, but the Thick Dick took his time and told me if it hurt, he’d stop the process until I was comfortable."

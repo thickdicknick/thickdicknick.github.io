@@ -6,4 +6,4 @@ tags:
   - example
   - lorem ipsum
 ---
-"First I called The Strong Arm, then I called The Thick Dick!"
+"My dad told me not to take the law into my own hands, so I grabbed the Thick Dick instead."

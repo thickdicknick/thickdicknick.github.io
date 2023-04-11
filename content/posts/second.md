@@ -6,7 +6,4 @@ tags:
   - example
   - duis neque
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
-<!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+"I couldn’t sleep with all the anxiety of dealing with the insurance company.  Now that the Thick Dick’s done his job, I sleep like a baby."

@@ -6,7 +6,4 @@ tags:
   - example
   - lorem ipsum
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
-<!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+"The Thick Dick really helped me with the sticky mess I was in."
