@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/banner-smaller.png"
+  image: "images/banner-with-bigger-border.png"
   contents: "_Serving_ anywhere _from 3 to 6 market sectors in Colorado_"
   #button:
     #contents: "Call"
