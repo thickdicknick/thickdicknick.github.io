@@ -37,17 +37,14 @@ copyright = "Copyright © 2023 Thick Dick Nick and Associates, LLC. All rights r
         [[params.footer.links.links]]
             title = "Sed et dapibus quis"
             url = "#"
-
-        [[params.footer.links]]
-            header = "params footer links header 2"
         [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
+            title = "Mattis et quis rutrum"
+            url = "#"
+        [[params.footer.links.links]]
+            title = "Suspendisse amet varius"
             url = "#"
         [[params.footer.links.links]]
             title = "Sed et dapibus quis"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Rutrum accumsan sed"
             url = "#"
 
         [params.footer.contact_form]
