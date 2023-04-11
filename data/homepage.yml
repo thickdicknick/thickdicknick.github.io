@@ -1,6 +1,8 @@
 banner:
   enable: true
-  image: "images/banner-with-bigger-border.png"
+  #image: "images/inkedbanner-with-border.png"
+  #image: "images/inkedbanner-with-bigger-border.png"
+  image: "images/Inkedbanner-smaller.jpg"
   contents: "_Serving_ anywhere _from 3 to 6 market sectors in Colorado_"
   #button:
     #contents: "Call"
