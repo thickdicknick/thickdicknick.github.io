@@ -12,49 +12,31 @@ items:
     items:
     - title: Car Accidents
       icon: fa-car
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content:
     - title: Motorcycle Accidents
       icon: fa-motorcycle
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content:
     - title: Big Truck Accidents
       icon: fa-truck
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
     - title: Unpaid Auto Insurance Claims
       icon: fa-car-burst
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
     - title: Pedestrian Accidents
       icon: fa-person-walking
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
     - title: Construction Injuries
       icon: fa-helmet-safety
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
     - title: Deaf People
       icon: fa-ear-deaf
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
     - title: Blind People
       icon: fa-person-walking-with-cane
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
     - title: Oral
       icon: fa-person-praying
-      content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      content: 
   - type: heading
     heading: Make your first call the right call
     contents: "\"First I called The Strong Arm, then I called **The Thick Dick!**\""
