@@ -10,33 +10,24 @@ items:
     intro: "We specialize in:"
     items_per_row: 3
     items:
-    - title: Car Accidents
-      icon: fa-car
-      content:
-    - title: Motorcycle Accidents
-      icon: fa-motorcycle
-      content:
-    - title: Big Truck Accidents
-      icon: fa-truck
-      content: 
     - title: Unpaid Auto Insurance Claims
       icon: fa-car-burst
-      content: 
+      content: Insurance companies...they're the worst.
     - title: Pedestrian Accidents
       icon: fa-person-walking
-      content: 
+      content: Did your vehicle hit the pedestrian, or *did the pedestrian hit your vehicle?*
     - title: Construction Injuries
       icon: fa-helmet-safety
-      content: 
+      content: Hurt on a construction site? Time to bring in the *real* power tool. 
     - title: Deaf People
       icon: fa-ear-deaf
-      content: 
+      content: Dead people are always causing problems.
     - title: Blind People
       icon: fa-person-walking-with-cane
-      content: 
+      content: Blind people are always causing problems.
     - title: Oral
       icon: fa-person-praying
-      content: 
+      content: Open wide.
   - type: heading
     heading: Make your first call the right call
     contents: "\"First I called The Strong Arm, then I called **The Thick Dick!**\""
