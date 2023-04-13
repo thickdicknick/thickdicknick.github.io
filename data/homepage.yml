@@ -12,7 +12,7 @@ items:
     items:
     - title: Unpaid Auto Insurance Claims
       icon: fa-car-burst
-      content: Insurance companies...they're the worst.
+      content: They can either pay in cash... or pain.
     - title: Pedestrian Accidents
       icon: fa-person-walking
       content: Did your vehicle hit the pedestrian, or *did the pedestrian hit your vehicle?*
@@ -21,13 +21,13 @@ items:
       content: Hurt on a construction site? Time to bring in the *real* power tool. 
     - title: Deaf People
       icon: fa-ear-deaf
-      content: Dead people are always causing problems.
+      content: Just because they're deaf doesn't mean they're not liable.
     - title: Blind People
       icon: fa-person-walking-with-cane
-      content: Blind people are always causing problems.
+      content: Watch where you're going you idiot!
     - title: Oral
       icon: fa-person-praying
-      content: Open wide.
+      content: "???""
   - type: heading
     heading: Make your first call the right call
     contents: "\"First I called The Strong Arm, then I called **The Thick Dick!**\""
