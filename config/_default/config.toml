@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Thick Dick Nick"
 theme = "hugo-arcana"
-copyright = "Copyright © 2023 Thick Dick Nick and Associates, LLC. All rights reserved"
+copyright = "Copyright © 2023 Thick Dick Nick and Associates, LLP. All rights reserved"
 
 [taxonomies]
     tag = "tags"
