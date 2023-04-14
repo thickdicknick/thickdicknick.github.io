@@ -12,22 +12,22 @@ items:
     items:
     - title: Unpaid Auto Insurance Claims
       icon: fa-car-burst
-      content: They can either pay in cash... or pain.
+      content: TBD
     - title: Pedestrian Accidents
       icon: fa-person-walking
       content: Did your vehicle hit the pedestrian, or *did the pedestrian hit your vehicle?*
     - title: Construction Injuries
       icon: fa-helmet-safety
-      content: Hurt on a construction site? Time to bring in the *real* power tool. 
+      content: TBD
     - title: Deaf People
       icon: fa-ear-deaf
-      content: Just because they're deaf doesn't mean they're not liable.
+      content: TBD 
     - title: Blind People
       icon: fa-person-walking-with-cane
-      content: Watch where you're going you idiot!
+      content: TBD
     - title: Oral
       icon: fa-person-praying
-      content: "???"
+      content: TBD
   - type: heading
     heading: Make your first call the right call
     contents: "\"First I called The Strong Arm, then I called **The Thick Dick!**\""
