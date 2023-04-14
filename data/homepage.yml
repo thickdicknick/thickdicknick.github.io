@@ -19,8 +19,8 @@ items:
     - title: Construction Injuries
       icon: fa-helmet-safety
       content: TBD
-    - title: Forklift Accidents
-      icon: fa-forklift
+    - title: Forklift
+      icon: fa-truck-ramp-box
       content: TBD 
     - title: Blind People
       icon: fa-person-walking-with-cane
