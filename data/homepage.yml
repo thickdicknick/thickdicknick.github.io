@@ -17,7 +17,7 @@ items:
       icon: fa-person-walking
       content: Did your vehicle hit the pedestrian, or *did the pedestrian hit your vehicle?*
     - title: Maternity Disputes
-      icon: fa-person-breastfeeding
+      icon: fa-baby
       content: TBD
     - title: Forklift Accidents
       icon: fa-truck-ramp-box
